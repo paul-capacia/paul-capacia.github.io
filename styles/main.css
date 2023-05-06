@@ -1,0 +1,11 @@
+body {
+  background-color: whitesmoke;
+  font-family: "Lora", sans-serif;
+}
+img {
+  max-width:50%;
+  height: auto;
+}
+#goal-photo {
+  text-align: center;
+}
