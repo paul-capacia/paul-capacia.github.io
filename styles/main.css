@@ -2,10 +2,33 @@ body {
   background-color: whitesmoke;
   font-family: "Lora", sans-serif;
 }
+
 img {
+  max-width:25%;
+  height: auto;
+}
+
+.heading {
+  text-align: center;
+}
+
+#tech-heading{
+  text-align: center;
+}
+
+.tech-blog-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   max-width:50%;
   height: auto;
 }
-#goal-photo {
-  text-align: center;
+.border-img{
+  max-width: 35%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
